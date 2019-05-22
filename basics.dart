@@ -43,11 +43,11 @@ bool flag = true;
 
 // Lista
 
-var lista = [0,1,2,3,4,5,6];
+List lista = [0,1,2,3,4,5,6];
 
 // Mapa 
 
-var dias = {
+Map dias = {
 // Llave: Valor
   'Lu': 'Lunes',
   'Ma': 'Martes',
